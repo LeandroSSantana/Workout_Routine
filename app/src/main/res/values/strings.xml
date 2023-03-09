@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Workout_Routine</string>
+    <string name="selected_routine" />
 </resources>
